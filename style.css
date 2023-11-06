@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+.box {
+    background-color:bisque;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    width: 50vw;
+}
+
+
+h1 {
+    color:blueviolet;
+    font-size: larger;
+}
